@@ -1,2 +1,2 @@
 # aws-cloud-foundations
-This repository is your one-stop shop for mastering the fundamentals of AWS Cloud with clear, concise notes and exercises meticulously compiled from the official AWS Academy Cloud Foundations course. This notes will hopefully help you prepare for the [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam. 
+This repository is your one-stop shop for mastering the fundamentals of AWS Cloud with notes and exercises compiled from the official AWS Academy Cloud Foundations course. This notes will hopefully help you prepare for the [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam. 
