@@ -59,3 +59,23 @@ There are three main cloud computing deployment models, each representing the cl
 	* <u>*Example*</u>: Having your own servers that you physically manage within your own facility or through a third-party data center. 
 ### 4. AWS vs. Traditional IT
 ![aws-and-traditional-it](https://i.imgur.com/IgcrpbZ.png) 
+
+## 2. Advantages of the Cloud
+1. <u>**Trade capital expenses for variable expense** </u>
+![capital-variabl-expenses | 500](https://i.imgur.com/dOq6Xor.png)
+
+* **Capital expenses (CapEx)**: **up-front** costs associated with acquiring, improving, maintaining physical assets (e.g.: buildings, machinery, equipment, vehicles, furniture, or computer hardware.) → *you pay for everything in the data center whether you use it or not.*
+* **Variable expenses (VarEx)**: costs that fluctuate/change in proportion to a specific business activity or production level. → *you only pay when you consume resources and for the amount that you use.*
+2. <u>**Massive economies of scale**</u>
+	* Because of aggregate usage from all customers, AWS can achiever higher economies of scale and pass savings onto customer. 
+	→ *Using cloud computing can help achieve a **lower variable cost** than what you can get on your own.* 
+3. <u>**You can stop guessing capacity**</u>
+	* Cloud computing eliminates guessing about your infrastructure capacity needs because you access as much or as little as you need, scaling up and down as required with only a few minutes notice. 
+4. <u>**Increase speed and agility**</u>
+	* In a cloud computing environment, information technology resources allocation is only a click away. 
+	→ reduces the time it takes to make those resources available. 
+5. <u>**Stop spending money on running/maintaining data center**</u>
+	* Saves you the trouble of having to focus too much on infrastructure, allowing you to focus on software development. 
+6. <u>**Go global in minutes**</u>
+	* You can easily deploy your application in multiple AWS regions around the world. 
+	→ provide lower latency and better experience for user. 
