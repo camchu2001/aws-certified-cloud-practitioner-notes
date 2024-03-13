@@ -90,7 +90,7 @@ A **web service** is any piece of software that makes itself available over the 
 * AWS offers **flexibility**, AWS environment can be reconfigured, update on demand, scaled up/down automatically to meet usage patterns. 
 * You to only pay for the individual services you need, for as long as you use them.
 * **AWS services** work together like building blocks, you interconnect them, building scalable solutions to support your application. 
-### 3. Categories of  AWS Services
+### 3. Categories of AWS Services
 **AWS services fall under different categories. Each category contains one or more services that you can choose from to build your solutions.**
 ![aws-services | 700](https://i.imgur.com/5VvUTkD.png)
 
@@ -99,3 +99,18 @@ A **web service** is any piece of software that makes itself available over the 
 1. <u>**AWS Management Console**</u>: you use a **user interface** to the web browser to access the majority of the services and features of those services. 
 2. <u>**AWS Command Line (AWS CLI)**</u>: a way of scripting your interaction with the ecosystem It provides utilities that can be launched from a command script. → you access services by discrete **commands or scripts.**
 3. <u>**Software Development Kits (SDKs)**</u>: you access services **directly from your code**. 
+
+## 4. Moving to the AWS Cloud
+<u>**AWS Cloud Adoption Framework (AWS CAF)**</u>: is a document that **provides guidance and best practices** to help businesses and their organizations have a structured approach to achieving successful cloud adoption. → basically a ***road map***
+* AWS CAF is organized into **6 areas of focus (6 perspectives)**: 
+	* business, people, governance → **business** capabilities
+	*  platform, security, operations → **technical** capabilities
+* Each perspective consists of sets of **capabilities**, which covers different responsibilities that are owned/managed by cross-functional teams. → **specific guidance and steps** to help organizations navigate that particular aspect of their cloud adoption journey.
+
+| <center>**Business Perspective**</center>                         | <center>**People Perspective**</center>                               |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------- |
+| ![business-perspective \| 350](https://i.imgur.com/hsnZSlC.png)   | ![people-perspective \| 350](https://i.imgur.com/9ta0Hsb.png)         |
+| <center>**Governance Perspective**</center>                       | <center>**Platform Perspective**</center>                             |
+| ![governance-perspective \| 350](https://i.imgur.com/ghSiSUw.png) | ![platform-perspective \| 350](https://i.imgur.com/3ORGzla.png)<br>   |
+| <center>**Security Perspective**</center>                         | <center>**Operations Perspective**</center>                           |
+| ![security-perspective \| 350](https://i.imgur.com/6FqSqiO.png)   | ![operations-perspective \| 350](https://i.imgur.com/0Nh5xQO.png)<br> |
