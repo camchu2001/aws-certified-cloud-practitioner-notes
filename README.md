@@ -1,4 +1,4 @@
-# aws-cloud-foundations
+# aws-certified-cloud-practitioner-notes
 This repository contains all my notes from the official AWS Academy Cloud Foundations course. Hopefully, this help you prepare for the [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam. 
 
 ## Modules
