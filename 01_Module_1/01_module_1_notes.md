@@ -55,7 +55,7 @@ There are three main cloud computing deployment models, each representing the cl
 	* <u>*Example*</u>: Having your own physical servers and connecting them to AWS services. 
 3. <u>**On–premises (private cloud)**</u>:
 	* It uses *virtualization* and resource management tools to try and increase resource utilization.
-	* While on-premises deployment does not provide many of the benefits of cloud computing, it’s sometimes sought for its ability to provide dedicates resources. 
+	* While on-premises deployment does not provide many of the benefits of cloud computing, it’s sometimes sought for its ability to provide dedicates resources, strict data privacy, direct control over resources. 
 	* <u>*Example*</u>: Having your own servers that you physically manage within your own facility or through a third-party data center. 
 ### 4. AWS vs. Traditional IT
 ![aws-and-traditional-it](https://i.imgur.com/IgcrpbZ.png) 
