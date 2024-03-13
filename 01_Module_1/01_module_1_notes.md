@@ -79,3 +79,5 @@ There are three main cloud computing deployment models, each representing the cl
 6. <u>**Go global in minutes**</u>
 	* You can easily deploy your application in multiple AWS regions around the world. 
 	→ provide lower latency and better experience for user. 
+
+## 3. Introduction to AWS
