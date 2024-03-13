@@ -5,9 +5,9 @@
 > * Introduction to Amazon Web Services (AWS)
 > * AWS Cloud Adoption Framework (AWS CAF)
 
+## 1. Introduction to Cloud Computing
 > Resources: <br>
 > [Types of Cloud Computing](https://aws.amazon.com/types-of-cloud-computing/) <br>
-## 1. Introduction to Cloud Computing
 ### 1. Definition 
 **Cloud computing** is the **on-demand** delivery of computer power, database, storage, applications, and other IT *resources* **via the internet** with **pay-as-you-go** pricing.
 
