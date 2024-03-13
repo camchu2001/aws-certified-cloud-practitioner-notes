@@ -81,3 +81,21 @@ There are three main cloud computing deployment models, each representing the cl
 	→ provide lower latency and better experience for user. 
 
 ## 3. Introduction to AWS
+### 1. Web Services
+A **web service** is any piece of software that makes itself available over the internet and uses a **standardized format** - such as Extensible Markup Language (XML) **or** JavaScript Object Notation (**JSON**) - for the **request** and **response** of an **application programming interface (API) interaction.** 
+![web-services](https://i.imgur.com/eIEOLM4.png)
+### 2. Amazon Web Service
+* AWS is a **secure cloud platform** that offers an ecosystem of **global cloud-based products** (e.g. EC2, S3, RDS, etc). 
+* AWS provides you with **on-demand access** to computer, storage, network, database, and other IT resources and management tools. 
+* AWS offers **flexibility**, AWS environment can be reconfigured, update on demand, scaled up/down automatically to meet usage patterns. 
+* You to only pay for the individual services you need, for as long as you use them.
+* **AWS services** work together like building blocks, you interconnect them, building scalable solutions to support your application. 
+### 3. Categories of  AWS Services
+**AWS services fall under different categories. Each category contains one or more services that you can choose from to build your solutions.**
+![aws-services | 700](https://i.imgur.com/5VvUTkD.png)
+
+![notable-services | 700](https://i.imgur.com/QjHBCij.png)
+### 4. Ways to interact with AWS
+1. <u>**AWS Management Console**</u>: you use a **user interface** to the web browser to access the majority of the services and features of those services. 
+2. <u>**AWS Command Line (AWS CLI)**</u>: a way of scripting your interaction with the ecosystem It provides utilities that can be launched from a command script. → you access services by discrete **commands or scripts.**
+3. <u>**Software Development Kits (SDKs)**</u>: you access services **directly from your code**. 
