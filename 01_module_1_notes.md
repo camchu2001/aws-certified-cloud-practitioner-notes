@@ -1,13 +1,15 @@
 # 1. Module 1 - Cloud Concepts Overview
-> ### **Topics**
+**This contains all my notes from the official AWS Academy Cloud Foundations course. Hopefully, this help you prepare for the [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam.**
+
+> #### **Topics**
 > * Introduction to cloud computing
 > * Advantages to cloud computing 
 > * Introduction to Amazon Web Services (AWS)
-> * AWS Cloud Adoption Framework (AWS CAF)
 
+> * AWS Cloud Adoption Framework (AWS CAF)
 ## 1. Introduction to Cloud Computing
-> Resources: <br>
-> [Types of Cloud Computing](https://aws.amazon.com/types-of-cloud-computing/) <br>
+> **Resources**
+> - [Types of Cloud Computing](https://aws.amazon.com/types-of-cloud-computing/)
 ### 1. Definition 
 **Cloud computing** is the **on-demand** delivery of computer power, database, storage, applications, and other IT *resources* **via the internet** with **pay-as-you-go** pricing.
 
@@ -16,7 +18,7 @@ These *IT resources* run on server computers located in large data centers in nu
 
 * In a ***traditional computing model***, you need to manage and maintain the hardware infrastructure for your software, which require spaces, staff, physical security, lots of planning, and money, etc. 
 → This approach can be labor-intensive, expensive and time-consuming.
-* ***Clouding computing model*** enables you to think as your infrastructure as software. 
+* ***Clouding computing model*** enables you to think of your infrastructure as software. 
 	* It is *flexible*, allowing you to select cloud services that best match your needs. 
 	* You only pay for what you use, when you use it, so you can *scale resources* up and down to match your demand. 
 → These IT resources as treated as temporary and disposable, allowing you to implement solutions quickly with low up-front cost. 
@@ -46,10 +48,9 @@ There are ***three*** main cloud service models:
 * <u>Example</u>: web-based email application (Gmail, Outlook, iCloud Mail)
 ### 3. Cloud Computing Deployment Models
 ![cloud-deployment-models | 600](https://i.imgur.com/BuPaDPy.png)
-
 There are three main cloud computing deployment models, each representing the cloud environment that your applications can be deployed in. 
 1. <u>**Cloud (public cloud)**</u>: the **most common** type of cloud computing deployment. 
-	* A cloud-based application is **fully deployed in the cloud**, all parts of the application will be running in the cloud 
+	* A cloud-based application is **fully deployed in the cloud**, all parts of the application will be running in the cloud.
 	* The cloud resources (like servers and storage) are owned and operated by the cloud service provider and delivered over the internet→ we don’t manage any physical infrastructure.
 2. <u>**Hybrid**</u>: connect your existing *on-premise* infrastructure and application to *cloud-based resources*. 
 	* <u>*Example*</u>: Having your own physical servers and connecting them to AWS services. 
@@ -59,7 +60,6 @@ There are three main cloud computing deployment models, each representing the cl
 	* <u>*Example*</u>: Having your own servers that you physically manage within your own facility or through a third-party data center. 
 ### 4. AWS vs. Traditional IT
 ![aws-and-traditional-it](https://i.imgur.com/IgcrpbZ.png) 
-
 ## 2. Advantages of the Cloud
 1. <u>**Trade capital expenses for variable expense** </u>
 ![capital-variabl-expenses | 500](https://i.imgur.com/dOq6Xor.png)
@@ -79,7 +79,6 @@ There are three main cloud computing deployment models, each representing the cl
 6. <u>**Go global in minutes**</u>
 	* You can easily deploy your application in multiple AWS regions around the world. 
 	→ provide lower latency and better experience for user. 
-
 ## 3. Introduction to AWS
 ### 1. Web Services
 A **web service** is any piece of software that makes itself available over the internet and uses a **standardized format** - such as Extensible Markup Language (XML) **or** JavaScript Object Notation (**JSON**) - for the **request** and **response** of an **application programming interface (API) interaction.** 
@@ -99,7 +98,6 @@ A **web service** is any piece of software that makes itself available over the 
 1. <u>**AWS Management Console**</u>: you use a **user interface** to the web browser to access the majority of the services and features of those services. 
 2. <u>**AWS Command Line (AWS CLI)**</u>: a way of scripting your interaction with the ecosystem It provides utilities that can be launched from a command script. → you access services by discrete **commands or scripts.**
 3. <u>**Software Development Kits (SDKs)**</u>: you access services **directly from your code**. 
-
 ## 4. Moving to the AWS Cloud
 <u>**AWS Cloud Adoption Framework (AWS CAF)**</u>: is a document that **provides guidance and best practices** to help businesses and their organizations have a structured approach to achieving successful cloud adoption. → basically a ***road map***
 * AWS CAF is organized into **6 areas of focus (6 perspectives)**: 
@@ -114,3 +112,71 @@ A **web service** is any piece of software that makes itself available over the 
 | ![governance-perspective \| 350](https://i.imgur.com/ghSiSUw.png) | ![platform-perspective \| 350](https://i.imgur.com/3ORGzla.png)<br>   |
 | <center>**Security Perspective**</center>                         | <center>**Operations Perspective**</center>                           |
 | ![security-perspective \| 350](https://i.imgur.com/6FqSqiO.png)   | ![operations-perspective \| 350](https://i.imgur.com/0Nh5xQO.png)<br> |
+
+
+## 5. Sample Questions
+**Question 0:**
+
+![q0|550](https://i.imgur.com/2ttnDTE.png)
+
+→ **Answer**: C
+
+**Question 1:**
+
+![q1|550](https://i.imgur.com/kxoni7U.png)
+
+→ **Answer**: All of the above
+
+**Question 2:**
+
+![q2|550](https://i.imgur.com/sh7dlEE.png)
+
+→ **Answer:** Pay as you go
+
+**Question 3:**
+
+![q3 | 550](https://i.imgur.com/VIoFaqE.png)
+
+→ **Answer:** System administration as a service. 
+
+**Question 4:**
+
+![q4|550](https://i.imgur.com/67Hjnig.png)
+
+→ **Answer:** True
+
+**Question 5:**
+
+![q5|550](https://i.imgur.com/ZakPSUE.png)
+
+→ **Answer:** Pay for racking, stacking, and powering servers
+
+**Question 6:**
+
+![q6|550](https://i.imgur.com/6aRb4BY.png)
+
+→ **Answer:** Multiple procurement cycles, high latency
+
+**Question 7:**
+
+![q7|550](https://i.imgur.com/Abfdomk.png)
+
+→ **Answer:** EC2
+
+**Question 8:**
+
+![q8|550](https://i.imgur.com/lgD6Bkc.png)
+
+→ **Answer:** False → you don’t have to own any hardware
+
+**Question 9:**
+
+![q9|550](https://i.imgur.com/0jLu94f.png)
+
+→ **Answer:** having hundreds of thousands of customer aggregated in the cloud
+
+**Question 10:**
+
+![q10|550](https://i.imgur.com/HkxlFKp.png)
+
+→ **Answer:** AWS Management Console, AWS CLI, SDKs
